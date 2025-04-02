@@ -118,4 +118,5 @@ def download_all(min_num = 32, max_num = 34):
             for f in lFiles :
                 save_pdf(f)
 
-download_all(0, 2000)
+# download_all(0, 2000)
+download_all(1000, 1015)
